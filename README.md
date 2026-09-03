@@ -25,7 +25,7 @@ bash
 Masuk ke folder proyek
 bash
    cd ukkarii
-Buka file index.html di browser, atau jalankan server lokal sesuai kebutuhan.
+Buka file Dokumentasi_UI_PustakaLokal.docx di browser, atau jalankan server lokal sesuai kebutuhan.
 📂 Struktur Folder
 ukkarii/
 ├── index.html
