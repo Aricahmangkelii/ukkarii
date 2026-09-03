@@ -3,7 +3,7 @@ projectukkari
 ukkarii
 
 projectukkari
-wifeframe 
+wifeframe https://github.com/Aricahmangkelii/ukkarii/blob/main/wireframeari.jpg
 
 🔗 Live Demo: aricahmangkelii.github.io/ukkarii
 
