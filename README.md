@@ -1,6 +1,6 @@
 # ukkarii
 projectukkari
-ukkarii
+ukkarii https://tugasukk.freedev.app/?i=1
 
 projectukkari
 wifeframe https://github.com/Aricahmangkelii/ukkarii/blob/main/wireframeari.jpg
